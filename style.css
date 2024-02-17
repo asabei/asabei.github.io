@@ -26,7 +26,7 @@ body {
 
 .header__subtitle {
   color: #8f8f8f;
-  align: center;
+  box-align: center;
   font-size: 16px;
   line-height: 1.4;
   margin: 30px;
